@@ -1,0 +1,28 @@
+.w-20{
+  width:20%;
+}
+.w-30{
+  width:30%;
+}
+.logo-text{
+  width:100px;
+}
+.bi{
+  margin-right:10px;
+}
+.story{
+  height:60px;
+}
+.image{
+  
+  height:15px;
+  width:15px;
+  margin:2px solid red;
+  border-radius: 50px;
+
+}
+.post{
+ margin:25px
+}
+
+

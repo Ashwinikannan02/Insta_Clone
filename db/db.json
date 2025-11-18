@@ -1,0 +1,154 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "ashwini_k"
+        
+      },
+      "image": "/posts/sunset_beach.jpg",
+      "caption": "Golden hour vibes 🌅✨ #NatureLover",
+      "likes": 312,
+      "comments": [
+        { "user": "rahul_dev", "comment": "Perfect lighting 🔥" },
+        { "user": "ananya_mehta", "comment": "Love this place 😍" }
+      ]
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "rahul_dev"
+      
+      },
+      "image": "/posts/mountain_hike.jpg",
+      "caption": "Climbed high, felt alive ⛰️💪 #Adventure",
+      "likes": 540,
+      "comments": [
+        { "user": "ashwini_k", "comment": "So inspiring!" },
+        { "user": "tech_guru", "comment": "Awesome shot bro 🔥" }
+      ]
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "travel_diaries"
+        
+      },
+      "image": "/posts/city_night.jpg",
+      "caption": "City lights never sleep 🌃 #UrbanVibes",
+      "likes": 431,
+      "comments": [
+        { "user": "rahul_dev", "comment": "Mesmerizing 😍" },
+        { "user": "photo_snap", "comment": "Beautiful shot!" }
+      ]
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "foodie_fun"
+        
+      },
+      "image": "/posts/pasta_dish.jpg",
+      "caption": "Creamy pasta perfection 🍝 #FoodLove",
+      "likes": 287,
+      "comments": [
+        { "user": "chef_ari", "comment": "Looks delicious 😋" },
+        { "user": "ashwini_k", "comment": "Now I’m hungry!" }
+      ]
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "pet_paradise"
+        
+      },
+      "image": "/posts/dog_playing.jpg",
+      "caption": "Happiness is a wagging tail 🐶❤️ #PetLife",
+      "likes": 410,
+      "comments": [
+        { "user": "animal_lover", "comment": "Cutie pie 🥺" },
+        { "user": "ashwini_k", "comment": "Adorable!" }
+      ]
+    },
+    {
+      "id": 6,
+      "user": {
+        "id": 106,
+        "username": "tech_guru"
+        
+      },
+      "image": "/posts/desk_setup.jpg",
+      "caption": "Minimal desk setup 💻✨ #Productivity",
+      "likes": 653,
+      "comments": [
+        { "user": "rahul_dev", "comment": "Clean and aesthetic 🔥" },
+        { "user": "dev_mind", "comment": "Perfect setup!" }
+      ]
+    },
+    {
+      "id": 7,
+      "user": {
+        "id": 107,
+        "username": "fitness_freak"
+        
+      },
+      "image": "/posts/workout_gym.jpg",
+      "caption": "No pain, no gain 💪 #FitnessJourney",
+      "likes": 721,
+      "comments": [
+        { "user": "health_addict", "comment": "Respect 🔥" },
+        { "user": "fit_girl", "comment": "Keep going!" }
+      ]
+    },
+    {
+      "id": 8,
+      "user": {
+        "id": 108,
+        "username": "artsy_anna"
+        
+      },
+      "image": "/posts/painting_canvas.jpg",
+      "caption": "Colors speak louder than words 🎨💫",
+      "likes": 254,
+      "comments": [
+        { "user": "creative_soul", "comment": "So artistic!" },
+        { "user": "ashwini_k", "comment": "Lovely work 😍" }
+      ]
+    },
+    {
+      "id": 9,
+      "user": {
+        "id": 109,
+        "username": "wander_woman"
+        
+      },
+      "image": "/posts/beach_walk.jpg",
+      "caption": "Walking into the waves 🌊👣 #TravelGoals",
+      "likes": 477,
+      "comments": [
+        { "user": "travel_diaries", "comment": "Feels so peaceful!" },
+        { "user": "rahul_dev", "comment": "I want to go there!" }
+      ]
+    },
+    {
+      "id": 10,
+      "user": {
+        "id": 110,
+        "username": "coder_life"
+        
+      },
+      "image": "/posts/code_snippet.jpg",
+      "caption": "Eat 🍕 Sleep 😴 Code 💻 Repeat 🔁",
+      "likes": 890,
+      "comments": [
+        { "user": "tech_guru", "comment": "Mood everyday 😂" },
+        { "user": "ashwini_k", "comment": "Relatable 💯" }
+      ]
+    }
+  ]
+}
