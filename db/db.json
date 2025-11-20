@@ -150,5 +150,41 @@
         { "user": "ashwini_k", "comment": "Relatable 💯" }
       ]
     }
-  ]
+  ],
+  "profile":[{
+    "id": 101,
+      "username": "ashwini_k"
+
+  },
+  {
+      "id": 102,
+      "username": "rahul_dev"
+    },
+    {
+      "id": 103,
+      "username": "travel_diaries"
+    }
+],
+  "Suggestion":
+[
+  
+     {
+      "id": 102,
+      "username": "rahul_dev"
+    },
+    {
+      "id": 104,
+      "username": "foodie_fun"
+    },
+    {
+      "id": 106,
+      "username": "tech_guru"
+    },
+    {
+      "id": 103,
+      "username": "travel_diaries"
+    }
+  
+]
+  
 }
